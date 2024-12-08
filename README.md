@@ -1,4 +1,4 @@
-<p align="left">Hi, I'm Hamit. <br><br>Aspiring future web developer, learning ASP.Net MVC, SQL, HTML, CSS. Currently in Patika+ Back-End training. Learning C#, .Net MVC, Entity framework.<br><br>Projects coming soon.</p>
+<p align="left">Hi, I'm Hamit. <br><br>Aspiring future web developer, learning ASP.Net MVC, SQL, HTML, CSS. Currently in Patika+ Back-End training. Learning C#, .Net MVC, Entity framework. Projects coming soon.</p>
 
 ###
 
